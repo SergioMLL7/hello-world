@@ -1,4 +1,14 @@
 # hello-world
 Este es mi primer repo
 
-mamani, SergioMLL7
+mamani llanos, SergioMLL7
+
+## EL ILUMINADO 7
+
+- Este es mi primer cambio a mi repo 'hello-world'
+- Este es el segundo bullet
+
+# Segunda sección
+
+## EL BANANERO
+
