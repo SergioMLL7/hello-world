@@ -1,7 +1,7 @@
 # hello-world
-Este es mi primer repo
+Este es mi primer intento actualizando repos
 
-mamani llanos, SergioMLL7
+mamani llanos, Sergio
 
 ## EL ILUMINADO 7
 
