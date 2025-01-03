@@ -10,5 +10,7 @@ mamani llanos, SergioMLL7
 
 # Segunda sección
 
+Más texto en negrita
+
 ## EL BANANERO
 
